@@ -217,7 +217,6 @@ def get_redcap_ready_fields():
 
     r = requests.post(REDCAP_API_URL, data=check_data)
     result = r.json()
-    print("REDCap response:", result)  # For debugging
 
     if not result:
         raise ValueError("REDCap returned no records matching filterLogic.")
