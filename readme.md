@@ -3,7 +3,7 @@
 ## Setup Instructions
 1. Clone repository
 ```
-git clone https://github.com/tevinpark/LLM_BJT_ENV.git
+git clone https://github.com/tevinpark/LLM_BJT_Redcap.git
 ```
 2. Add your `.env` file to the project folder  
    This file should contain the following environment variables:
