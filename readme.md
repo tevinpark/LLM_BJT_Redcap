@@ -1,9 +1,10 @@
 # Redcap Participant Selection Script
 
 ## Setup Instructions
-1. Clone repository
+1. Clone repository and enter the folder
 ```
 git clone https://github.com/tevinpark/LLM_BJT_Redcap.git
+cd LLM_BJT_Redcap
 ```
 2. Add your `.env` file to the project folder  
    This file should contain the following environment variables:
